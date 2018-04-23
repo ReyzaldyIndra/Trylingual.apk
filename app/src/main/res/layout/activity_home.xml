@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <ImageView
+        android:id="@+id/intro_bgd2"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:background="@drawable/maxresdefault"
+        android:visibility="visible"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout">
+
+        <ImageView
+            android:id="@+id/intro_bgd1"
+            android:layout_width="400dp"
+            android:layout_height="250dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_weight="1"
+            android:background="@drawable/maxresdefault"
+            android:visibility="visible" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/rocket"
+        android:layout_width="150dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="23dp"
+        android:layout_marginStart="23dp"
+        android:background="@drawable/maxresdefault"
+        android:src="@drawable/mabur"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="TRYLINGUAL"/>
+
+</RelativeLayout>
