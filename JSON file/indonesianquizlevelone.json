@@ -1,0 +1,58 @@
+{
+	"indonesialevelone": [{
+			"text": "Fungsi tanda titik",
+			"question": "Berikut ini merupakan penggunaan atau fungsi tanda titik, kecuali",
+			"answers": [
+				"Mengakhiri kalimat yang bukan pertanyaan atau seruan",
+				"Diletakkan pada akhir singkatan nama atau gelar",
+				"Memisahkan anak kalimat dan induk kalimat",
+				"Memisahkan angka,jam,menit,dan detik untuk menunjukkan waktu"
+			],
+			"correctIndex": 3
+		},
+		{
+			"text": "Penggunaan huruf kapital",
+			"question": "Kesalahan penulisan huruf besar terdapat pada kalimat",
+			"answers": [
+				"Dea mengajar di sekolah dua kali seminggu.",
+				"Paman suka membaca surat kabar Analisa.",
+				"Siang ini Banu akan bertemu dengan Tika.",
+				"Ayah membeli pisang Ambon untuk kakek."
+			],
+			"correctIndex": 4
+		},
+		{
+			"text": "Penggunaan tanda hubung",
+			"question": "Berikut ini merupakan contoh penggunaan tanda hubung yang benar, kecuali",
+			"answers": [
+				"se-Jawa Barat",
+				"memPHK-kan",
+				"Tahun 90-an",
+				"Anak-anak"
+			],
+			"correctIndex": 2
+		},
+		{
+			"text": "Penulisan sesuai EYD",
+			"question": "Penulisan kata bilangan yang sesuai dengan EYD terdapat pada kalimat berikut",
+			"answers": [
+				"Tahun ini negara Indonesia merayakan hari jadi yang ke-70.",
+				"Anaknya dapat mencapai juara ke tiga.",
+				"Pada hari yang ke-tiga anak diperiksa lagi darahnya",
+				"Mahasiswa yang masa studinya pada saat ini berada pada semester ke IX mendapat peringatan."
+			],
+			"correctIndex": 1
+		},
+		{
+			"text": "Penulisan singkatan",
+			"question": "Penulisan singkatan di bawah ini yang salah adalah",
+			"answers": [
+				"ABRI",
+				"UNNES",
+				"Posyandu",
+				"Siskamling"
+			],
+			"correctIndex": 2
+		}
+	]
+}

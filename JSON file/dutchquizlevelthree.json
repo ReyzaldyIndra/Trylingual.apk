@@ -1,0 +1,60 @@
+﻿{
+	"dutchlevelthree":
+		[
+			{
+				"text": "Ik ... dat ik zijn auto hoor.",
+				"question": "What is the most suitable word to fill the blank?",
+				"answers": [
+				"Geloof",
+				"Gelooft",
+				"Geloven",
+				"Geloften"
+				],
+				"correctIndex": 1
+			},
+			{
+				"text": "Mijn beste vriend ... les op een lagere school.",
+				"question": "What is the most suitable word to fill the blank?",
+				"answers": [
+				"Geef",
+				"Geeft",
+				"Geven",
+				"Gevten"
+				],
+				"correctIndex": 2
+			},
+			{
+				"text": " ... u altijd naar dat restaurant",
+				"question": "What is the most suitable word to fill the blank?",
+				"answers": [
+				"Ga",
+				"Gaan",
+				"Gaat",
+				"Gaaft"
+				],
+				"correctIndex": 3
+			},
+			{
+				"text": " ... je echt uit Amsterdam",
+				"question": "What is the most suitable word to fill the blank?",
+				"answers": [
+				"Komf",
+				"Komt",
+				"Kom",
+				"Komen"
+				],
+				"correctIndex": 3
+			},
+			{
+				"text": "Heb je de man met die grappige hoed ... ",
+				"question": "What is the most suitable word to fill the blank?",
+				"answers": [
+				"Gezien",
+				"Geziend",
+				"Zien",
+				"Ziend"
+				],
+				"correctIndex": 1
+			}
+		]
+}

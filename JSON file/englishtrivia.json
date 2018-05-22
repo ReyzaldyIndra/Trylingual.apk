@@ -1,0 +1,13 @@
+{
+	"englishtrivia":
+		[
+			{
+				"question": "Do the words “hear” and “listen” have the same meaning?",
+				"answers": [
+				"Yes",
+				"No"
+				],
+				"correctAnswer": 2
+			}
+		]
+}

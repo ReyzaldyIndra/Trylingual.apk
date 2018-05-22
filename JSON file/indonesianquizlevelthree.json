@@ -1,0 +1,58 @@
+{
+	"indonesialevelthree": [{
+			"text": "Pemerintah akan memantau harga – harga kebutuhan bahan pokok di pasaran pada saat menjelang dan selama bulan ramadhan. Hal ini dilakukan untuk mencegah tindakan – tindakan nakal para pedagang yang menjual dengan harga yang sangat tinggi. Jika harga bahan pokok di pasaran melonjak, maka pemerintah akan bertindak dengan melakukan operasi pasar",
+			"question": "Kalimat kritik yang tepat pada isi paragraf di atas adalah?",
+			"answers": [
+				"Pemerintah seharusnya memantau harga barang pokok tidak hanya selama bulan Ramadhan",
+				"Pemerintah harus menurunkan harga bahan pokok selama bulan ramadhan",
+				"Pemerintah seharusnya menindak para pedagang yang berlaku curang",
+				"Pemerintah harus mengadakan operasi pasar selama bulan Ramadhan"
+			],
+			"correctIndex": 1
+		},
+		{
+			"text": "Seiring pertumbuhan jumlah kendaraan, Indonesia kebanjiran produk onderdil (sparepart) dan oli palsu yang dilempar ke pasaran dari produsen dalam maupun luar negeri. Peredaran onderdil dan oli abal-abal tentu mengancam nyawa pengendara maupun penumpang",
+			"question": "Makna kata onderdil pada bacaan di atas adalah?",
+			"answers": [
+				"mesin",
+				"suku cadang",
+				"perbengkelan",
+				"produk"
+			],
+			"correctIndex": 2
+		},
+		{
+			"text": "Kerasnya upaya kami dalam menjuangkan nasib para buruh akhirnya sedikit membuahkan hasil yang signifikan",
+			"question": "Kesalahan penggunaan kata dalam kalimat di atas ialah",
+			"answers": [
+				"Kerasnya, seharusnya sekerasnya",
+				"Menjuangkan, seharusnya memperjuangkan",
+				"Akhirnya, seharusnya akhiri",
+				"Sedikit, seharusnya sesedikit mungkin"
+			],
+			"correctIndex": 2
+		},
+		{
+			"text": "Ibu membuat kue cucur sangat terlalu manis, sehingga tak enak dimakan",
+			"question": "Kalimat tersebut akan menjadi efektif dihilangkan kata",
+			"answers": [
+				"Dihilangkan kata Ibu",
+				"Dihilangkan kata cucur",
+				"Dihilangkan kata sangat",
+				"Dihilangkan kata enak"
+			],
+			"correctIndex": 3
+		},
+		{
+			"text": "Pada akhirnya Alif mampu ... pertaruhan dengan Raja untuk ... foto Sarah, seorang gadis cantik keponakan Kiai Rais",
+			"question": "Istilah yang tepat untuk melengkapi kalimat ruang rumpang di atas ialah",
+			"answers": [
+				"Memenangkan, mendapatkan",
+				"Menang, dapat",
+				"Dimenangkan, didapatkan",
+				"Memenangkan, dapat"
+			],
+			"correctIndex": 1
+		}
+	]
+}

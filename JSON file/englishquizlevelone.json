@@ -1,0 +1,58 @@
+{
+	"englishlevelone": [{
+			"text": "They had ... from the storm because they tried very hard to live",
+			"question": "What is the suitable word to complete the sentence above?",
+			"answers": [
+				"survived",
+				"survive",
+				"surviving",
+				"survival"
+			],
+			"correctIndex": 1
+		},
+		{
+			"text": "Most of us ... 24 SKS this semester",
+			"question": "What is the suitable word to complete the sentence above?",
+			"answers": [
+				"to take",
+				"are be taking",
+				"are taking",
+				"be taking"
+			],
+			"correctIndex": 3
+		},
+		{
+			"text": "What are they doing right now?",
+			"question": "What is the suitable answer for the question above?",
+			"answers": [
+				"They are doing swimming",
+				"They swim right now",
+				"They are swimming",
+				"They usually go swimming"
+			],
+			"correctIndex": 3
+		},
+		{
+			"text": "Mega can’t come to the conference right now because she ... her little baby",
+			"question": "What is the suitable word to complete the sentence above?",
+			"answers": [
+				"taking care of",
+				"is taking care of",
+				"is takes care of",
+				"be taking care of"
+			],
+			"correctIndex": 2
+		},
+		{
+			"text": "The baby ... for three hours",
+			"question": "What is the suitable word to complete the sentence above?",
+			"answers": [
+				"has sleeping",
+				"has slept",
+				"has sleep",
+				"has been slept"
+			],
+			"correctIndex": 2
+		}
+	]
+}

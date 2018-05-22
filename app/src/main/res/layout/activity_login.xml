@@ -1,46 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
+<RelativeLayout xmlns:tools="http://schemas.android.com/tools"
     android:layout_height="match_parent"
     android:layout_width="match_parent"
     android:orientation="vertical"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <!--EditText
+        android:layout_width="320dp"
+        android:layout_height="40dp"
+        android:layout_centerInParent="true"
+        android:inputType="textPersonName"
+        android:text="Input your username here"
+        android:id="@+id/username"/>
 
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/linearLayout">
 
-        <ImageView
-            android:id="@+id/login_bgd1"
-            android:layout_width="400dp"
-            android:layout_height="250dp"
-            android:layout_alignParentEnd="true"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentTop="true"
-            android:layout_weight="1"
-            android:background="@drawable/cartoonmoonwithstarry"
-            android:visibility="visible" />
-    </LinearLayout>
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="400dp"
-        android:layout_height="250dp"
-        android:src="@drawable/cartoonearthsaturnmarsandmoon"
-        android:background="@drawable/maxresdefault"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_below="@+id/linearLayout"
-        android:layout_alignParentBottom="true" />
-
-    <Button
-        android:layout_width="100dp"
-        android:layout_height="55dp"
+    <EditText
+        android:layout_width="320dp"
+        android:layout_height="40dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="60dp"
-        android:background="@color/pucetikonlogin"
-        android:text="LOGIN"/>
+        android:layout_marginBottom="138dp"
+        android:text="Input your password here"
+        android:inputType="textPassword"
+        android:textSize="10dp"
+        android:id="@+id/password"
+         />
+    <TextView
+        android:layout_width="170dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="185dp"
+        android:text="PASSWORD"
+        android:textSize="30dp" />
+    <TextView
+        android:layout_width="170dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="184dp"
+        android:text="USERNAME"
+        android:textSize="30dp"
+        android:id="@+id/font"/>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="45dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="77dp"
+        android:text="LOGIN"
+        android:textSize="30dp"
+        android:id="@+id/login_text"/>
+    <LinearLayout-->
+        <!--android:id="@+id/linearLayout"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:orientation="vertical">-->
+
+        <!--<ImageView-->
+            <!--android:layout_width="400dp"-->
+            <!--android:layout_height="225dp"-->
+            <!--android:src="@drawable/cartoonmoonwithstarry" />-->
+        <!--<ImageView-->
+            <!--android:layout_width="400dp"-->
+            <!--android:layout_height="225dp"-->
+            <!--android:src="@drawable/cartoonearthsaturnmarsandmoon" />-->
+        <!--<ImageView-->
+            <!--android:layout_width="400dp"-->
+            <!--android:layout_height="225dp"-->
+            <!--android:src="@drawable/maxresdefault" />-->
+    <!--</LinearLayout>-->
+
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/google_btnlogin"
+        android:layout_width="120dp"
+        android:layout_height="55dp"
+        android:layout_centerInParent="true">
+
+    </com.google.android.gms.common.SignInButton>
+
 
 </RelativeLayout>

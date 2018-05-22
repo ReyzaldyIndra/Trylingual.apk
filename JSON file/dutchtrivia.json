@@ -1,0 +1,13 @@
+﻿{
+	"dutchtrivia":
+		[
+			{
+				"question": "een plus negen",
+				"answers": [
+				"tien",
+				"elf"
+				],
+				"correctIndex": 1
+			}
+		]
+}

@@ -1,0 +1,13 @@
+{
+	"indonesiantrivia":
+		[
+			{
+				"question": "Tahukah kamu, salah satu jenis syair yang menceritakan peristiwa, kondisi, keadaan, situasi ataupun orang - orang yang hidup di d alam istana kerajaan?",
+				"answers": [
+				"Syair Sejarah",
+				"Syair Panji"
+				],
+				"correctIndex": 2
+			}
+		]
+}

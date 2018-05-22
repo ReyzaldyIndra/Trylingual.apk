@@ -1,0 +1,60 @@
+﻿{
+	"dutchlevelone":
+		[
+			{
+				"text": "Ik houd niet van dat boek. ",
+				"question": "What is the meaning of the sentence in english?",
+				"answers": [
+				"I don't like that book",
+				"I don't own that book",
+				"I don't write that book",
+				"I'm not holding that book"
+				],
+				"correctIndex": 1
+			},
+			{
+				"text": " Hij heeft het erg druk.",
+				"question": "What is the meaning of the sentence in english?",
+				"answers": [
+				"He's having a hard time",
+				"He doesn't care ",
+				"He's very busy",
+				"He will go"
+				],
+				"correctIndex": 3
+			},
+			{
+				"text": "Zijn jullie klaar?",
+				"question": "What is the meaning of the sentence in english?",
+				"answers": [
+				"What are you doing?",
+				"Have you eat?",
+				"Are you ready?",
+				"May I help you?"
+				],
+				"correctIndex": 3
+			},
+			{
+				"text": "Mijn appartement in Amsterdam is zo gezellig.",
+				"question": "What is the meaning of the sentence in english?",
+				"answers": [
+				"My Apartment in Amsterdam is so great",
+				"My Apartment in Amsterdam is so cozy",
+				"My Apartment in Amsterdam is so expensive",
+				"My Apartment in Amsterdam is so cool"
+				],
+				"correctIndex": 2
+			},
+			{
+				"text": "Ga dan naar bed als je moe bent.",
+				"question": "What is the meaning of the sentence in english?",
+				"answers": [
+				"My phone is on the bed",
+				"Go to bed if you're tired",
+				"I'm sitting beside my bed",
+				"I do my homework on the bed"
+				],
+				"correctIndex": 2
+			}
+		]
+}

@@ -1,0 +1,60 @@
+﻿{
+	"dutchleveltwo":
+		[
+			{
+				"text": "... vliegtuig is minstens 20 jaar oud.",
+				"question": "Fill the blank!",
+				"answers": [
+				"Dat",
+				"Deeze",
+				"Gelof",
+				"Geven"
+				],
+				"correctIndex": 1
+			},
+			{
+				"text": "Hij heeft niet ... geld om de ketting te kopen. ",
+				"question": "Fill the blank!",
+				"answers": [
+				"Compagnie",
+				"Genoeg",
+				"Weinig",
+				"Geen"
+				],
+				"correctIndex": 2
+			},
+			{
+				"text": "  Hij zag je ... op de markt.",
+				"question": "Fill the blank!",
+				"answers": [
+				"Morgen",
+				"Gaan",
+				"Gisteren",
+				"Wanneer"
+				],
+				"correctIndex": 3
+			},
+			{
+				"text": " Hij houdt niet ... truien.",
+				"question": "Fill the blank!",
+				"answers": [
+				"Bij",
+				"Aan",
+				"Van",
+				"Dat"
+				],
+				"correctIndex": 3
+			},
+			{
+				"text": "Dat is nog ... reden om te blijven.",
+				"question": "Fill the blank!",
+				"answers": [
+				"Geen",
+				"Niet",
+				"Niets",
+				"Universiteit"
+				],
+				"correctIndex": 1
+			}
+		]
+}

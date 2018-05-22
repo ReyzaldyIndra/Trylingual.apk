@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="app.trylingual">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,14 +11,29 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".HomeActivity">
+        android:name = ".trylingual"
+        <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".Model.EnglishTrivia" />
+        <activity android:name=".Model.englishQuiz.EngQuizActivity" />
+        <activity android:name=".Model.IdQuizActivity" />
+        <activity android:name=".Model.englishQuiz.Level1.EngQuizlv1" />
+        <activity android:name=".Model.englishQuiz.Level2.EngQuizlv2.EngQuizlv2" />
+        <activity android:name=".Model.englishQuiz.Level3.EngQuizlv3.EngQuizlv3" />
+        <activity android:name=".Model.englishQuiz.ActivityUKlearnNoun" />
+        <activity android:name=".Model.englishQuiz.EnglishTriviaVerb" />
+        <activity android:name=".Model.englishQuiz.Level1.EngNounQuizlv1" />
+        <activity android:name=".Model.englishQuiz.Level1.EngNounDYK" />
+        <activity android:name=".Model.englishQuiz.Level1.EngVerbDYK" />
+        <activity android:name=".Model.englishQuiz.Level1.EngVerbQuizlv1" />
+        <activity android:name=".Model.englishQuiz.ActivityUKlearnVerb" />
+
     </application>
 
 </manifest>
